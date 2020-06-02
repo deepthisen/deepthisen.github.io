@@ -11,33 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.Tech in Mechanical Engineering, Indian Institute of Technology Madras, 2013
-* Ph.D in Aerospace Engineering , Texas A&M University, 2019
+* B.Tech in Chemical Engineering, Indian Institute of Technology Madras, 2013
+* Ph.D in Petroleum Engineering , Texas A&M University, 2021
 
 Work experience
 ======
-* Data Scientist
-  * Amazon Web Services
-  * Date: May 2020 -
-  
-* Data Scientist
+* Data Scientist Intern
   * TGS NOPEC Geophysical Company
-  * Date: September 2019 - March 2020
+  * Date: June 2019 - August 2020
 
-* Data Scientist II
-  * Anadarko Petroleum Corp
-  * Date: June 2019 - September 2019
+* Process Engineer
+  * Indian Oil Corporation Limited
+  * Date: July 2013 - June 2014
   
-* Data Science Intern
-  * Anadarko Petroleum Corp
-  * Date: May 2018- August 2018
+* Process Engineer Intern
+  * Technip KTI Limited
+  * Date: May 2012 - August 2012
+  
+* Process Engineer Intern
+  * Bharat Petroleum Corporation Limited
+  * Date: May 2011 - August 2011
   
 Skills
 ======
 * Matlab
 * Python
-  * Scikitlearn
+  * Tensorflow
   * Keras
+  * Gym
+* SLB Eclipse, Petrel
+  * Reservoir Simulation and Visualization
+* CMG
 
 
 Publications
@@ -52,13 +56,6 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Reviewer for IEEE Transactions on Signal Processing, Multidimensional Systems and Signal Pro-
-cessing, ASME Journal of Dynamic Systems, Measurement and Control, IEEE Access, Signal Processing (Elsevier), Journal of Franklin Institute and International conference on Information Fusion.
+* Reviewer for SPE J, Journal of Petroleum Science and Engineering.
