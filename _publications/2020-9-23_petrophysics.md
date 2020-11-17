@@ -12,3 +12,4 @@ citation: 'Sen, D., Ong, C., Kainkaryam, S., & Sharma, A. (2020, September 23). 
 Recommended citation: Sen, D., Ong, C., Kainkaryam, S., & Sharma, A. (2020, September 23). Automatic Detection of Anomalous Density Measurements due to Wellbore Cave-in. Society of Petrophysicists and Well-Log Analysts.
 
 
+
