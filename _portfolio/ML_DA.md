@@ -18,7 +18,7 @@ The answers to all these questions are fairly elusive to the reservoir engineer 
 
 My primary research focuses on solving some of these problems by invoking machine-learning at the simulation step. Specifically, I try to predict some aspects of the subsurface flow pattern, without having to run the costly simulation. It turns out that the machine-learning model runs faster than the simulation by around 3 orders of magnitude; so accounting for multiple variables, scenarios etc. becomes a breeze.
 
-The first part of the work was presented at SPE-ATCE. 
+The first part of the work was presented at SPE-ATCE.  
 
 <img src="/images/Picture1.png" alt="drawing" width="500"/>
 
