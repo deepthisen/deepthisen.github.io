@@ -54,14 +54,9 @@ The problem at hand is thus: Wireline density logs measure the rock density in t
 At TGS, I developed a method that takes as input, a multi-variate time-series (to be accurate, depth series) and does the clustering automatically using an algorithm called Toeplitz Inverse Covariance Clustering ([TICC](https://arxiv.org/abs/1706.03161)). Turns out, it does the job fairly well (see [paper](https://www.onepetro.org/journal-paper/SPWLA-2020-v61n5a3))!
 
 
-<div class="row">
-  <div class="column">
-    <img src="/images/ticc_vs_rug_1.png" alt="TICC Eg1" width="250"/>
-  </div>
-  <div class="column">
-    <img src="/images/ticc_vs_rug_2.png" alt="TICC Eg2" width="250"/>
-  </div>
-</div>
+<center>
+    <img src="/images/ticc_vs_rug_combine.png" alt="TICC Eg2" width="500"/>
+</center>
 
 
 ## Capacitance-Resistance Models 
