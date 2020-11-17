@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 ## Education
 
 * B.Tech in Chemical Engineering, Indian Institute of Technology Madras, 2013
