@@ -63,13 +63,13 @@ At TGS, I developed a method that takes as input, a multi-variate time-series (t
 
 The capacitance resistance model for inferring interval connectivity was initially developed at UT Austin by Yousef et al (2006). This draws upon the analogy between a reservoir system under pseudosteady state with a resistance-capacitance (RC) circuit. The inputs to the CRM are the injection rates applied at the injectors and the outputs are the production rates at the producer wells. The production rates are computed as a function of the injection rates and several parameters that may be related to the properties of the reservoir system.
 
-Researchers have developed several variations of the CRM model, applicable to specific cases, such as
+Researchers have developed several variations of the CRM model (see [here](http://hdl.handle.net/2152/15357)), applicable to specific cases, such as
 
 a. CRM-T(ank)
 
 b. CRM-P(roducer)
 
-c. CRM-I(njector)P(roducer)
+c. CRM-I(njector)P(roducer).
 
 As part of a course project (and an initial few months of my PhD), I developed a python implementation of the CRM-P model and did a comparison with recurrent neural network. I applied both to the conventionally used benchmarking case (called the Streak Reservoir). While both models performed fairly well, the RNN model outperformed the CRM model by a marginal degree. The CRM-P code that was used in this comparison has been made publicly available on my github. The RNN code shall be uploaded as soon as our results are published.
 
