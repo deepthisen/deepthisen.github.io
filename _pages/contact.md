@@ -22,9 +22,7 @@ College Station, TX 77843.
 ### Email:
 Work-related : deept_tamu@tamu.edu
 
-Others : sen.deepthi@gmail.com
+Other enquiries : sen.deepthi@gmail.com
 
-
-----
 
 
