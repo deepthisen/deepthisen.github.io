@@ -16,9 +16,13 @@ Education
 
 Work experience
 ======
+* Upstream Reservoir Simulation Engineering Intern
+  * BP America
+  * Date: June 2020 - August 2020
+  
 * Data Scientist Intern
   * TGS NOPEC Geophysical Company
-  * Date: June 2019 - August 2020
+  * Date: June 2019 - August 2019
 
 * Process Engineer
   * Indian Oil Corporation Limited
@@ -39,6 +43,7 @@ Skills
   * Tensorflow
   * Keras
   * Gym
+  * NLTK, Networkx, too many to count, really.
 * SLB Eclipse, Petrel
   * Reservoir Simulation and Visualization
 * CMG
