@@ -17,16 +17,16 @@ My primary research focuses on solving some of these problems by invoking machin
 
 The first part of the work was presented at SPE-ATCE.
 
-Using RNNs to Understand Reservoir Connectivity
-========================================================
+## Using RNNs to Understand Reservoir Connectivity
 
 
 
-Time-Series Clustering Applications to Petrophysics
-========================================================
+
+## Time-Series Clustering Applications to Petrophysics
 
 
 
-Capacitance-Resistance Models 
-==============================
+
+## Capacitance-Resistance Models 
+
 
