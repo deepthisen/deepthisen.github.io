@@ -74,7 +74,7 @@ c. CRM-I(njector)P(roducer)
 As part of a course project (and an initial few months of my PhD), I developed a python implementation of the CRM-P model and did a comparison with recurrent neural network. I applied both to the conventionally used benchmarking case (called the Streak Reservoir). While both models performed fairly well, the RNN model outperformed the CRM model by a marginal degree. The CRM-P code that was used in this comparison has been made publicly available on my github. The RNN code shall be uploaded as soon as our results are published.
 
 <center>
-    <img src="/images/crm_vs_rnn.png" alt="TICC Eg2" width="500"/>
+    <img src="/images/crm_vs_rnn.png" alt="CRM vs RNN" width="500"/>
 </center>
 
 
