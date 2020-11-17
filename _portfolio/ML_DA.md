@@ -47,7 +47,15 @@ The real value in training an RNN in such a case, would be to infer the connecti
 
 ## Time-Series Clustering Applications to Petrophysics  
 
-One of the more established applications of machine-learning in oil and gas would be in the realm of well-log and seismic interpretation. I had the opportunity to work as summer intern with the data science team at TGS-NOPEC, where they specialize in machine-learning applications in the petrophysics/geophysics space. Working with the team was a great learning opportunity for me  and I was able to develop an unsupervised approach for anomaly detection in density logs. 
+One of the more established applications of machine-learning in oil and gas would be in the realm of well-log and seismic interpretation. I had the opportunity to work as summer intern with the data science team at TGS-NOPEC, where they specialize in machine-learning applications in the petrophysics/geophysics space. Working with the team was a great learning opportunity for me  and I was able to develop an unsupervised approach for anomaly detection in density logs.
+
+The problem at hand is thus: Wireline density logs measure the rock density in the subsurface at various depths (in the trajectory of the well) by means of gamma-rays (more info [here](http://homepages.see.leeds.ac.uk/~earpwjg/PG_EN/CD%20Contents/GGL-66565%20Petrophysics%20English/Chapter%2013.PDF)). However, the measurements generally mess up when the tool is not in contact with the formation (rock). Therefore, we need to know the depth intervals at which the tool loses contact with the formation, so that we can delete these portions while pre-processing. Conventionally, this is done by running a caliper log (more info [here](http://homepages.see.leeds.ac.uk/~earpwjg/PG_EN/CD%20Contents/GGL-66565%20Petrophysics%20English/Chapter%209.PDF)) along with the density log. This measures the borehole radius in such a way that it mostly remains constant when everything's going good and shows random fluctuations/increased radius whenever there is a caved-in borehole. Now, this is precisely where the density log fails. Not to mention that this is usually done manually by the petrophysics, for multiple (>300,000 in the Permian) wells!
+
+At TGS, I developed a method that takes as input, a multi-variate time-series (to be accurate, depth series) and does the clustering automatically using an algorithm called Toeplitz Inverse Covariance Clustering ([TICC](https://arxiv.org/abs/1706.03161)). Turns out, it does the job fairly well (see [paper](https://www.onepetro.org/journal-paper/SPWLA-2020-v61n5a3))!
+
+<center>
+  <img src="/images/rnn_VI_comparison.png" alt="drawing" width="500"/>
+</center>
 
 
 ## Capacitance-Resistance Models 
