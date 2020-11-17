@@ -34,7 +34,7 @@ a. This approach needs historical data that ideally covers the entire space of p
 b. The RNN architecture and training (loss function formulation, window selection etc.) has to capture complex non-linear relationship between input and output. This problem is compounded by the fact that the underlying physics is generally not time-invariant. However, the approach is still worth a shot, given we have sufficient data and the physical regime does not change too much in the space where we make the predictions.
 
 <center>
-  <img src="/images/rnn_workflow.png" alt="drawing" width="1200"/>
+  <img src="/images/rnn_workflow.png" alt="drawing" width="1250"/>
 </center>
 
 
