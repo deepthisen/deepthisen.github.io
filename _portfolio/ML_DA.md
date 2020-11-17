@@ -27,6 +27,12 @@ The first part of the work was presented at SPE-ATCE.
 
 ## Using RNNs to Understand Reservoir Connectivity
 
+In case we do not have a geologic model on which we can run the simulator, but have access to a lot of historical data (rates and pressures at operational wells in the field), we can use machine-learning based approaches to understand certain key aspects of the reservoir. One way to do this is to fit a recurrent neural net to the history and study the variable importance of each input (in this case, the injection rates) to each output (the production rates). However, the feasibility of such an approach is debated due to a number of reasons:
+
+a. This approach needs historical data that ideally covers the entire space of possible inputs and underlying physics. This tends to be a major problem in reservoir engineering, wherein we have hundreds of wells, yet only a few years of data.
+
+b. The RNN architecture and training (loss function formulation, window selection etc.) has to capture complex non-linear relationship between input and output. This problem is compounded by the fact that the underlying physics is generally not time-invariant. However, the approach is still worth a shot, given we have sufficient data and the physical regime does not change too much in the space where we make the predictions.
+
 
 
 
