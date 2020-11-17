@@ -35,6 +35,8 @@ b. The RNN architecture and training (loss function formulation, window selectio
 
 
 
+
+
 ## Time-Series Clustering Applications to Petrophysics
 
 
