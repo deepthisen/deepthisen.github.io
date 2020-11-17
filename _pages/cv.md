@@ -60,7 +60,8 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
+
 Service and leadership
 ======
 * Professional Development Co-chair, GradSWE TAMU (2018-2020)
