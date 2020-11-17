@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
+
 * B.Tech in Chemical Engineering, Indian Institute of Technology Madras, 2013
 * Ph.D in Petroleum Engineering , Texas A&M University, 2021
 
-Work experience
-======
+## Work experience
+
 * Upstream Reservoir Simulation Engineering Intern
   * BP America
   * Date: June 2020 - August 2020
@@ -36,8 +36,8 @@ Work experience
   * Bharat Petroleum Corporation Limited
   * Date: May 2011 - August 2011
   
-Skills
-======
+## Skills
+
 * Matlab
 * Python
   * Tensorflow
@@ -49,21 +49,22 @@ Skills
 * CMG
 
 
-Publications
-======
+## Publications
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+## Talks
+
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
 
-Service and leadership
-======
+## Service and leadership
+
 * Professional Development Co-chair, GradSWE TAMU (2018-2020)
 * Pro-bono Consultant, TAMU Graduate Consulting Club
 * Reviewer for SPE J, Journal of Petroleum Science and Engineering
+
