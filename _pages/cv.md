@@ -63,4 +63,6 @@ Talks
   
 Service and leadership
 ======
-* Reviewer for SPE J, Journal of Petroleum Science and Engineering.
+* Professional Development Co-chair, GradSWE TAMU (2018-2020).
+* Pro-bono Consultant, TAMU Graduate Consulting Club
+* Reviewer for SPE J, Journal of Petroleum Science and Engineering
