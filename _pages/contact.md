@@ -7,7 +7,7 @@ author_profile: true
 
 ### Office Address:
 
-Richardson Petroleum Engineering Building (Room 701),
+Richardson Petroleum Engineering Building (# 701),
 
 3116 TAMU,
 
