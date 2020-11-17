@@ -7,8 +7,11 @@ collection: portfolio
 ## Data-Driven Rate Optimization Under Geologic Uncertainty 
 
 The most crucial decisions while operating an oilfield happens pertains to 
+
 a. At what rate should an operator extract oil from producer wells
+
 b. At what rate should water be injected into the reservoir to push out maximum oil from the producer wells in (a.)
+
 c. When/Where/Whether to drill the next well
 
 The answers to all these questions are fairly elusive to the reservoir engineer owing not only to the uncertainty in the subsurface geology, but also a range on operational constraints that are required for safe operation. Moreover, in order to account for all the uncertain variables and constraints, one has to run a computationally-costly simulation a gazillion times. 
