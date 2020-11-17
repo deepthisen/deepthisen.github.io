@@ -24,6 +24,7 @@ The first part of the work was presented at SPE-ATCE.
   <img src="/images/Picture1.png" alt="drawing" width="800"/>
 </center>
 
+
 ## Using RNNs to Understand Reservoir Connectivity
 
 
