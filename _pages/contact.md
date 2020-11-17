@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Contact"
+permalink: /contact/
+author_profile: true
+---
+
 ### Office Address:
 
 Richardson Petroleum Engineering Building (Room 701),
