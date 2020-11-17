@@ -21,7 +21,7 @@ My primary research focuses on solving some of these problems by invoking machin
 The first part of the work was presented at SPE-ATCE.  
 
 <center>
-  <img src="/images/Picture1.png" alt="drawing" width="500"/>
+  <img src="/images/Picture1.png" alt="drawing" width="800"/>
 </center>
 
 ## Using RNNs to Understand Reservoir Connectivity
