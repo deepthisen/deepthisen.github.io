@@ -8,6 +8,7 @@ author_profile: true
 ### Office Address:
 
 <address>
+  
   Richardson Petroleum Engineering Building #701,
   
   3116 TAMU,
@@ -15,6 +16,7 @@ author_profile: true
   245 Spence St,
   
   College Station, TX 77843.
+  
 </address>
 
 
