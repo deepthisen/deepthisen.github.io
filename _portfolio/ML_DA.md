@@ -40,7 +40,7 @@ b. The RNN architecture and training (loss function formulation, window selectio
 The real value in training an RNN in such a case, would be to infer the connectivity between injectors and producers in the field. This may be measured in terms of the 'permutation-based variable importance', where one measures the deviation in the prediction from the true output on shuffling the columns of the inputs. In order to validate such an approach one must clearly define what measure of 'connectivity' that is being learned by the RNN. For starters, I compared the average flux from the injectors to producers with the variable importance I computed using the RNN.
 
 <center>
-  <img src="/images/rnn_VI_comparison.png" alt="drawing" width="1300"/>
+  <img src="/images/rnn_VI_comparison.png" alt="drawing" width="600"/>
 </center>
 
 
