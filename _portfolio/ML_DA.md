@@ -47,7 +47,7 @@ The real value in training an RNN in such a case, would be to infer the connecti
 
 ## Time-Series Clustering Applications to Petrophysics  
 
-
+One of the more established applications of machine-learning in oil and gas would be in the realm of well-log and seismic interpretation. I had the opportunity to work as summer intern with the data science team at TGS-NOPEC, where they specialize in machine-learning applications in the petrophysics/geophysics space. Working with the team was a great learning opportunity for me  and I was able to develop an unsupervised approach for anomaly detection in density logs. 
 
 
 ## Capacitance-Resistance Models 
