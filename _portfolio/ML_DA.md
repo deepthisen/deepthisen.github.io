@@ -37,6 +37,7 @@ b. The RNN architecture and training (loss function formulation, window selectio
   <img src="/images/rnn_workflow.png" alt="drawing" width="1300"/>
 </center>
 
+The real value in training an RNN in such a case, would be to infer the connectivity between injectors and producers in the field. This may be measured in terms of the 'permutation-based variable importance', where one measures the deviation in the prediction from the true output on shuffling the columns of the inputs. 
 
 
 ## Time-Series Clustering Applications to Petrophysics  
