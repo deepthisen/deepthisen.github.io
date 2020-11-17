@@ -4,8 +4,8 @@ excerpt: "Deriving meaningful insights from observed data from oilfields using s
 collection: portfolio
 ---
 
-# Data-Driven Rate Optimization Under Geologic Uncertainty 
-========================================================
+## Data-Driven Rate Optimization Under Geologic Uncertainty 
+
 The most crucial decisions while operating an oilfield happens pertains to 
 a. At what rate should an operator extract oil from producer wells
 b. At what rate should water be injected into the reservoir to push out maximum oil from the producer wells in (a.)
