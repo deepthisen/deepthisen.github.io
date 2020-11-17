@@ -27,7 +27,6 @@ The first part of the work was presented at SPE-ATCE.
 
 
 
-
 ## Time-Series Clustering Applications to Petrophysics
 
 
