@@ -12,5 +12,6 @@ As a pro-bono consultant at the TAMU Graduate Consulting Club, our team works wi
 Our team is looking to streamline this process and to provide recommendations to our client for easy market entry.
 
 <center>
-  <img >
+  <img src="/images/probono.png" alt="drawing" width="300"/>
 </center>
+
