@@ -4,28 +4,23 @@ excerpt: "Test"
 collection: portfolio
 ---
 
-<!DOCTYPE html>
-<html lang="en">
+<html>
+
 <head>
     <meta charset="utf-8">
     <script type="text/javascript"
         src="https://cdn.jsdelivr.net/npm/brython@3.9.0/brython.min.js">
     </script>
-    <script type="text/javascript"
-    	src="https://cdn.jsdelivr.net/npm/brython@3.9.1/brython_stdlib.js">
-    </script>
 </head>
 
 <body onload="brython()">
-    <input type="text" id="text" placeholder="Enter anything 45 in mind">
-    <span id="output"></span>
-	<script type="text/python" id="script1">
-            from browser import document
 
-            def show_text(e):
-                document['output'].textContent = e.target.value;
+<script type="text/python">
+from browser import document
 
-            document['text'].bind('input', show_text)
-        </script>
-</body> 
+document <= "Hello !"</script>
+
+
+</body>
+
 </html>
