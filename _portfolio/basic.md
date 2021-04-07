@@ -1,6 +1,6 @@
 ---
-title: "Machine Learning and Data Analytics in Petroleum Reservoir Engineering"
-excerpt: "Deriving meaningful insights from oilfield data using statistical methods a.k.a my PhD research."
+title: "Test"
+excerpt: "Test."
 collection: portfolio
 ---
 
