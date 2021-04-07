@@ -1,6 +1,6 @@
 ---
 title: "Test"
-excerpt: "Test."
+excerpt: "Test"
 collection: portfolio
 ---
 
