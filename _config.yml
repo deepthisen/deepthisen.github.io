@@ -244,12 +244,12 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _basic_test
+  # _deepthi_test
   - scope:
       path: ""
-      type: basic
+      type: deepthi
     values:
-      layout: single
+      layout: deepthi_layout
       author_profile: true
       share: true
 # Sass/SCSS
