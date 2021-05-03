@@ -6,7 +6,7 @@ collection: portfolio
 
 ## Data-Driven Rate Optimization Under Geologic Uncertainty 
 
-The most crucial decisions while operating an oilfield happens pertains to 
+The most crucial decisions while operating an oilfield pertain to 
 
 a. At what rate should an operator extract oil from producer wells
 
